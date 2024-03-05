@@ -1,4 +1,4 @@
-Hi 👋 My name is Maria Kolandawel
+Hi 👋 My name is Maria
 =================================
 
 Trainee Data Analysis
