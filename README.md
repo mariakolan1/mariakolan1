@@ -1,16 +1,24 @@
-### Hi there 👋
+Hi 👋 My name is Maria Kolandawel
+=================================
 
-<!--
-**mariakolan1/mariakolan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trainee Data Analysis
+---------------------
 
-Here are some ideas to get you started:
+Hi, I'm Maria, a trainee Data Analyst from London. I have completed a Level 3 Qualification Data Analytics looking for Junior Data Analyst roles or Apprenticeships. 🔍 Proficient in data visualization tools such as Power BI and Tableau, I'm passionate about transforming data into actionable insights. 🚀 Excited to enhance my proficiency in Python, R, and SQL to leverage advanced analytics techniques and drive business success and insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in United Kingdom
+* ✉️  You can contact me at [mariakolandawel@gmail.com](mailto:mariakolandawel@gmail.com)
+* 🧠  I'm learning Python, SQL, R
+* ⚡  I'm a big tennis fan, any serve tips welcome 🎾
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.linkedin.com/in/mariakolandawel/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
